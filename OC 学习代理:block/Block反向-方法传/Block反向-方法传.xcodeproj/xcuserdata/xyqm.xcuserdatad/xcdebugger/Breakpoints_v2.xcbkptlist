@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&#x53cd;&#x5411;-&#x65b9;&#x6cd5;&#x4f20;/TwoViewController.m"
+            timestampString = "504182625.479953"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-changeViewColor:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&#x53cd;&#x5411;-&#x65b9;&#x6cd5;&#x4f20;/ViewController.m"
+            timestampString = "504182637.669202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "-push"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block&#x53cd;&#x5411;-&#x65b9;&#x6cd5;&#x4f20;/ViewController.m"
+            timestampString = "511152349.472526"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "-push"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController push]"
+                  moduleName = "Block&#x53cd;&#x5411;-&#x65b9;&#x6cd5;&#x4f20;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/OC%20%E5%AD%A6%E4%B9%A0%E4%BB%A3%E7%90%86:block/Block%E5%8F%8D%E5%90%91-%E6%96%B9%E6%B3%95%E4%BC%A0/Block%E5%8F%8D%E5%90%91-%E6%96%B9%E6%B3%95%E4%BC%A0/ViewController.m"
+                  timestampString = "511152354.663963"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__22-[ViewController push]_block_invoke.33"
+                  moduleName = "Block&#x53cd;&#x5411;-&#x65b9;&#x6cd5;&#x4f20;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/OC%20%E5%AD%A6%E4%B9%A0%E4%BB%A3%E7%90%86:block/Block%E5%8F%8D%E5%90%91-%E6%96%B9%E6%B3%95%E4%BC%A0/Block%E5%8F%8D%E5%90%91-%E6%96%B9%E6%B3%95%E4%BC%A0/ViewController.m"
+                  timestampString = "511152354.665686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
